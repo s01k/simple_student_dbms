@@ -9,5 +9,8 @@
 + Add a new student details
 <img src="f/add.png">
 
++ Show any student details (search by roll number)
+<img src="f/show.png">
+
 + Delete any student details
 <img src="f/del.png">
