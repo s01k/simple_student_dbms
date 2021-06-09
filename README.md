@@ -1,0 +1,2 @@
+# Student-DataBase-Management-System Written in Qt5Core
+# Elements used: QTableWidgetItem,QTableWidget,QComboBox,QVBoxLayout,QGridLayout,QDialog,QWidget,QPushButton, QApplication, QMainWindow,QAction,QMessageBox,QLabel,QTextEdit,QProgressBar,QLineEdit, QHBoxLayout
